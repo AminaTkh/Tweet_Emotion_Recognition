@@ -1,6 +1,6 @@
 # Tweet_Emotion_Recognition
 
-Tweet Emotion Recognition with TensorFlow. A coursera project.
+Tweet Emotion Recognition with TensorFlow. Coursera project.
 
 
 ### Goals:
