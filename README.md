@@ -3,7 +3,7 @@
 Tweet Emotion Recognition with TensorFlow. A coursera project.
 
 
-###Goals:
+### Goals:
 
 Using a Tokenizer in TensorFlow
 
@@ -14,7 +14,7 @@ Creating and Training Recurrent Neural Networks
 Using NLP and Deep Learning to perform Text Classification
 
 
-###The hands on project on Tweet Emotion Recognition with TensorFlow is divided into following tasks:
+### The hands on project on Tweet Emotion Recognition with TensorFlow is divided into following tasks:
 
 Task 1: Introduction
 
